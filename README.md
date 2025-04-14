@@ -54,8 +54,8 @@ Develop hardware-software systems for immersive physical-digital experiences.
 
 ## 📸 Screenshots
 
-![Gallery](screenshotUnity.png)  ![Gallery](Photo1.jpeg)
-![Gallery](Photo2.jpeg)
+![Gallery](screenshotUnity.png)  ![Gallery](Photo1.jpg)
+![Gallery](Photo2.jpg)
 
 ## 🎥 Project Video Overview
 
