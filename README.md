@@ -57,7 +57,7 @@ Develop hardware-software systems for immersive physical-digital experiences.
 ![Gallery](screenshotUnity.png)  ![Gallery](Photo1.jpg)
 ![Gallery](Photo2.jpg)
 
-## 🎥 Project Video Overview
+## 🎥 Project Video Demo
 
 [![Watch the video](https://img.youtube.com/vi_NvFB_siKE.jpg)]([[https://www.youtube.com/watch?v=i_NvFB_siKE](https://www.youtube.com/watch?v=i_NvFB_siKE)])
 
