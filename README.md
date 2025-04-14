@@ -1,7 +1,7 @@
 📻 Radio-Controlled Unity 3D Game
 Welcome to the Radio-Controlled Unity Game! This project is a hands-on exploration of repurposing old technology to create a unique game controller using a vintage radio. The radio's physical components—such as capacitors and dials—were brought back to life and connected to an Arduino, which in turn controls gameplay inside a Unity 3D environment.
 
-🎮 Features
+## 🎮 Features
 🕹️ Custom Hardware Controller: Controlled using a salvaged analog radio, reconfigured with wires and soldering.
 
 🔧 Capacitance-Based Input: Player speed and direction are influenced by variable capacitance readings.
@@ -14,7 +14,7 @@ Welcome to the Radio-Controlled Unity Game! This project is a hands-on explorati
 
 🚀 Player Movement: Responsive player controls designed for analog hardware inputs.
 
-🛠️ Technologies
+## 🛠️ Technologies
 Unity 3D: Core engine for the game environment and logic.
 
 Arduino UNO: Reads capacitance and potentiometer values from the radio.
@@ -25,7 +25,7 @@ C (Arduino IDE): Captures and interprets analog readings from radio components.
 
 Serial Communication: Arduino ↔ Unity communication via serial port.
 
-📚 Learning Objectives
+## 📚 Learning Objectives
 Reverse engineer old electronics for creative prototyping.
 
 Learn and apply analog signal interpretation with Arduino.
@@ -38,7 +38,7 @@ Gain proficiency in writing Unity C# scripts for player controls, UI, and game l
 
 Develop hardware-software systems for immersive physical-digital experiences.
 
-🔌 Hardware Breakdown
+## 🔌 Hardware Breakdown
 🧠 Arduino UNO
 
 📻 Vintage analog radio (repurposed)
@@ -51,14 +51,14 @@ Develop hardware-software systems for immersive physical-digital experiences.
 
 🔌 Serial USB connection to PC
 
-📸 Screenshots
+## 📸 Screenshots
 
 Caption: In-game action and the custom-built radio controller.
 
-🎥 Project Video Overview
+## 🎥 Project Video Overview
 
 
-🧠 Challenges Overcome
+## 🧠 Challenges Overcome
 🧩 Interfacing Old Tech: Soldering onto brittle, aged radio circuits.
 
 📏 Accurate Reading of Capacitance: Raw analog values were highly unstable and required noise filtering and smoothing.
