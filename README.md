@@ -1,6 +1,6 @@
 ## 📻 Radio-Controlled Unity 3D Game
 
-Welcome to the Radio-Controlled Unity Game! This project is a hands-on exploration of repurposing old technology to create a unique game controller using a vintage radio. The radio's physical components—such as capacitors and dials—were brought back to life and connected to an Arduino, which in turn controls gameplay inside a Unity 3D environment.
+Welcome to the Radio-Controlled Unity Game! This project is a hands-on exploration of repurposing old technology to create a unique game controller using a vintage radio. The radio's physical components—such as capacitors, buttons, and modular swtiches brought back to life and connected to an Arduino, which in turn controls gameplay inside a Unity 3D environment.
 
 ## 🎮 Features
 🕹️ Custom Hardware Controller: Controlled using a salvaged analog radio, reconfigured with wires and soldering.
