@@ -59,7 +59,7 @@ Develop hardware-software systems for immersive physical-digital experiences.
 
 ## 🎥 Project Video Demo
 
-[![Watch the video](https://img.youtube.com/vi_NvFB_siKE.jpg)]([[https://www.youtube.com/watch?v=i_NvFB_siKE](https://www.youtube.com/watch?v=i_NvFB_siKE)])
+[![Watch the video](https://img.youtube.com/vi/i_NvFB_siKE/0.jpg)](https://www.youtube.com/watch?v=i_NvFB_siKE)
 
 ## 🧠 Challenges Overcome
 🧩 Interfacing Old Tech: Soldering onto brittle, aged radio circuits.
