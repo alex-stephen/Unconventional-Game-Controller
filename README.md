@@ -54,10 +54,12 @@ Develop hardware-software systems for immersive physical-digital experiences.
 
 ## 📸 Screenshots
 
-Caption: In-game action and the custom-built radio controller.
+![Gallery](screenshotUnity.png)  ![Gallery](Photo1.png)
+![Gallery](Photo2.png)
 
 ## 🎥 Project Video Overview
 
+[![Watch the video](https://img.youtube.com/vi/x_o7ymNO-Cc/0.jpg)]([[https://www.youtube.com/shorts/x_o7ymNO-Cc](https://www.youtube.com/watch?v=i_NvFB_siKE)])
 
 ## 🧠 Challenges Overcome
 🧩 Interfacing Old Tech: Soldering onto brittle, aged radio circuits.
